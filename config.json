@@ -1,0 +1,7 @@
+{
+  "APP_ENV": "local",
+	"HTTP_ADDR":"localhost:3030",
+	"DATABASE_URL":"localhost:5432",
+	"REQUEST_TIMEOUT":"30",
+	"LOGLEVEL":"DEBUG"
+}
