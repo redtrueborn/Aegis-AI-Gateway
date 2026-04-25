@@ -11,6 +11,7 @@ type Config struct {
 	Database_URL    string `json:"DATABASE_URL"`
 	Request_Timeout string `json:"REQUEST_TIMEOUT"`
 	Log_Level       string `json:"LOGLEVEL"`
+	Log_Format      string `json:"LOG_FORMAT"`
 }
 
 func GetConfig() (*Config, error) {
