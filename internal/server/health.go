@@ -15,7 +15,7 @@ type HealthResponse struct{
 func HeathHandler(w http.ResponseWriter, r *http.Request) {
 	
 	if r.Method != http.MethodGet {
-		http.Error(w, "method not allowed", http.StatusMethodNotAllowed)
+		writeAPIError(w, http.StatusMethodNotAllowed, "405","Method not allowed")
 		return
 	}
 	w.Header().Set("Content-Type", "application/json")
