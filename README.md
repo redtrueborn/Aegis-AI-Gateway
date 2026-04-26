@@ -414,13 +414,17 @@ code of conduct
 public roadmap labels
 License
 
-License decision pending.
+This project is source-available under a non-commercial license.
 
-During early development, this project is public for visibility and review. A formal license will be added before any stable release.
+Free use is allowed for personal learning, education, and non-commercial research.
+
+Commercial use requires a separate paid license from Spacewhale Software, LLC.
+
+See `LICENSE` and `COMMERCIAL_LICENSE.md` for full terms.
 
 Author
 
-Built by Alex Trew as part of a focused transition into production AI infrastructure and platform engineering.
+Built by Ravenwood (alias of Alex Trew) as part of a focused transition into production AI infrastructure and platform engineering.
 
 Primary focus:
 
@@ -431,4 +435,3 @@ durable async workloads
 production service design
 
 Use this now. Do not over-polish it. The README only matters if the repo starts getting real commits behind it.
-::contentReference[oaicite:1]{index=1}

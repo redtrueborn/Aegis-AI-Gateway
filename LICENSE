@@ -1,0 +1,75 @@
+Copyright (c) 2026-present Spacewhale Software, LLC.
+All rights reserved.
+
+Aegis AI Gateway Non-Commercial Source-Available License v1.0
+
+1. Definitions
+
+"Software" means this repository and all source code, binaries, documentation,
+and related materials distributed with it.
+
+"Licensor" means Spacewhale Software, LLC.
+
+"Non-Commercial Use" means use solely for personal learning, education,
+academic research, evaluation, or other use that is not for commercial advantage
+or monetary compensation.
+
+"Commercial Use" means any use by or for a business, organization,
+government entity, or individual where the use is connected to revenue,
+commercial advantage, internal business operations, client services,
+production systems, paid support, or monetized offerings.
+
+2. License Grant (Non-Commercial Only)
+
+Subject to this License, Licensor grants you a limited, worldwide,
+non-exclusive, non-transferable, revocable license to use, copy, modify,
+and run the Software for Non-Commercial Use only.
+
+3. Commercial Use Requires Separate Paid License
+
+You may not use the Software for any Commercial Use unless you have entered
+into a separate written commercial license agreement with Licensor and paid
+any required licensing fees.
+
+4. Restrictions
+
+You may not, without a separate written commercial license from Licensor:
+
+- use the Software in production for a business or organization;
+- provide the Software (or a modified version) as a hosted or managed service;
+- sell, sublicense, lease, or otherwise commercially distribute the Software;
+- remove or alter copyright, trademark, or license notices.
+
+5. Ownership
+
+The Software is licensed, not sold. Licensor retains all right, title,
+and interest in and to the Software and all related intellectual property.
+
+6. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR SHALL NOT BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, OR FOR ANY
+LOSS OF DATA, PROFITS, OR BUSINESS INTERRUPTION, ARISING OUT OF OR RELATED TO
+YOUR USE OF THE SOFTWARE.
+
+8. Termination
+
+This License terminates automatically if you violate any term. Upon termination,
+you must immediately stop using the Software and delete all copies in your
+possession or control.
+
+9. Contact for Commercial Licensing
+
+For commercial licensing inquiries, see COMMERCIAL_LICENSE.md.
+
+10. Governing Law
+
+This License is governed by applicable law in the jurisdiction selected by
+Licensor in any commercial agreement, or otherwise by the jurisdiction where
+Licensor is organized, unless prohibited by applicable law.
